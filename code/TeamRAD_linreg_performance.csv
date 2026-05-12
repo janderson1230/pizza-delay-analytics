@@ -1,0 +1,4 @@
+.metric,.estimator,.estimate
+rmse,standard,0.935
+mae,standard,0.634
+rsq,standard,0.857
