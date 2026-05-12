@@ -1,0 +1,1 @@
+This folder contains supporting R scripts, calculations, and analytical workflows used during the Pizza Delivery Delay Analytics Project. The code was used for data analysis, trend identification, predictive insights, and operational performance evaluation.
