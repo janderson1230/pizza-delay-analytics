@@ -1,1 +1,0 @@
-This folder contains supporting visuals, charts, heatmaps, and dashboard exports used throughout the Pizza Delivery Delay Analytics Project. These visuals highlight key delivery trends related to traffic conditions, delivery distance, order complexity, and time-of-day performance.
